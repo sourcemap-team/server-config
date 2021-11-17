@@ -16,3 +16,8 @@ https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-
 
 https://docs.docker.com/engine/install/ubuntu/ - официальная документация
 https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru - документация на Русском языке
+
+
+# Установка Docker-compose на сервер Ubuntu
+
+https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04-ru
