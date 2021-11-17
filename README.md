@@ -14,4 +14,5 @@ https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-
 
 # Установка Docker на сервер Ubuntu
 
-https://docs.docker.com/engine/install/ubuntu/
+https://docs.docker.com/engine/install/ubuntu/ - официальная документация
+https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru - документация на Русском языке
