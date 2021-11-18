@@ -33,4 +33,11 @@ https://www.digitalocean.com/community/tutorials/mysql-ru
 https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-node-js-application-with-nginx-let-s-encrypt-and-docker-compose-ru
 
 # Nginx сервер
+
 https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms-ru
+
+
+#Let's Encrypt ограничения
+https://letsencrypt.org/ru/docs/rate-limits/
+
+
