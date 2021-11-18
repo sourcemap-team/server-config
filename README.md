@@ -37,7 +37,13 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-n
 https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms-ru
 
 
-#Let's Encrypt ограничения
+# Let's Encrypt ограничения
 https://letsencrypt.org/ru/docs/rate-limits/
+
+
+# Certbot - обновление сертификатов
+
+https://certbot.org/renewal-setup
+
 
 
