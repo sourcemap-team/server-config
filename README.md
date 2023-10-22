@@ -21,6 +21,7 @@ https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru - до
 # Установка Docker-compose на сервер Ubuntu
 
 https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04-ru
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04
 
 
 # Конфигурация MySQL
